@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+}
+
+.day,.session,.schedule,.course{
+    font-weight: bold;
+}
+
+h2{
+    text-align: center;
+}
+
+#logo{
+    color: white;
+    margin-left: 10px;
+}
